@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate dizini sonda bir eğik çizgiyle bitmiyor. Intermediate dizininin düzgün değerlendirilmesi için bu eğik çizgi gerekli olduğundan bu oluşturma örneği eğik çizgiyi ekleyecek.
+  Assembling MathASM.asm...
+  Source.cpp
+C:\Users\kruzw\Downloads\New Priv\rust\Kernelmode\Global.h(8,10): error C1083: içerme dosyası açılamıyor: 'ntifs.h': No such file or directory
+  ('Source.cpp' kaynak dosyası derleniyor)
+  

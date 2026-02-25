@@ -1,0 +1,16 @@
+﻿  intel_driver.cpp
+  kdmapper.cpp
+  service.cpp
+  Usermode.cpp
+C:\Users\kruzw\Downloads\New Priv\rust\Usermode\Usermode.cpp(9,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': makro yeniden tanımlama
+      C:\Users\kruzw\Downloads\New Priv\rust\Usermode\Usermode.cpp(9,9):
+      '_CRT_SECURE_NO_WARNINGS' önceden komut satırında bildirildi
+  
+C:\Users\kruzw\Downloads\New Priv\rust\Usermode\Usermode.cpp(48,53): warning C4305: 'bağımsız değişken': 'int' iken 'BYTE' olarak kesildi
+C:\Users\kruzw\Downloads\New Priv\rust\Usermode\Usermode.cpp(48,53): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\kruzw\Downloads\New Priv\rust\Usermode\Usermode.cpp(199,1): warning C4102: 'EnBasaDon': etiket başvurusu kaldırıldı
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 1147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  Usermode.vcxproj -> C:\Users\kruzw\Downloads\New Priv\rust\x64\Release\Usermode.exe
